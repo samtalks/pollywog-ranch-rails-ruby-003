@@ -1,0 +1,5 @@
+class PondsController < ApplicationController
+
+
+
+end
